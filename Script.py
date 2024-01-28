@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hey There ⚡⚡⚡⚡⚡
+    START_TXT = """<b>Hey There ⚡⚡⚡⚡⚡\n
 🤖 I Can Search For Movies From Direct Files 
 📁 Type & Send Me Any Movie Name
 💓 Made With Love @skzbotz</b>"""
